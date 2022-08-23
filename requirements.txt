@@ -1,8 +1,0 @@
-colorama
-pyrogram
-SimpleQIWI
-pyqiwi
-qiwipy
-requests
-datetime
-pytransform
