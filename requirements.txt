@@ -5,3 +5,4 @@ pyqiwi
 qiwipy
 requests
 datetime
+pytransform
