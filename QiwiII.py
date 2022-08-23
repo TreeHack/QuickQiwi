@@ -24,12 +24,12 @@ while True:
         if exit == 0:
             print(Fore.GREEN + 'Переход на глав.меню ->')
             sleep(2)
-            import Silion.py
+            import QuickQiwi.py
             if os.sys.platform == "win32":
                 os.system("cls")
             else:
                 os.system("clear")
-            import Silion.py
+            import QuickQiwi.py
     except Exception:
         print(Fore.RED + 'Ошибка/Неверный формат!')
         sleep(2)
@@ -37,5 +37,5 @@ while True:
             os.system("cls")
         else:
             os.system("clear")
-        import Silion.py
+        import QuickQiwi.py
 input()
