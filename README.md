@@ -1,4 +1,4 @@
-QuickQiwi - топовая утилита которая способна:
+# QuickQiwi - топовая утилита которая способна:
 
 - UserBot (1000-7).
 
@@ -6,30 +6,30 @@ QuickQiwi - топовая утилита которая способна:
 
 - Обнаружение ip по домену, и наоборот.
 
-------- УСТАНОВКА TERMUX -------
+## УСТАНОВКА TERMUX:
 
-⬛ git clone https://github.com/TreeHack/QuickQiwi
+- `git clone https://github.com/BeanDx/QuickQiwi`
 
-⬛ cd QuickQiwi
+- `cd QuickQiwi`
 
-⬛ pip install -r requirements.txt
+- `pip install -r requirements.txt`
 
---------- ЗАПУСК --------
+<h3>Запуск</h3>
 
-⬛ python QuickQiwi.py
+- `python QuickQiwi.py`
 
------ УСТАНОВКА WINDOWS ----
+## УСТАНОВКА WINDOWS 
 
-❗На компьютере должен быть установлен git, если он не установлен необходимо его установить с официального сайта.
+❗ **На компьютере должен быть установлен git, если он не установлен необходимо его установить с официального сайта.**
 
-❗Так же на компьютере должен быть установлен python, если он не установлен то необходимо установить его с сайта python.org, и при установке выбрать галочку add to path. 
+❗ **Так же на компьютере должен быть установлен python, если он не установлен то необходимо установить его с сайта python.org, и при установке выбрать галочку add to path.**
 
-⚫ git clone https://github.com/TreeHack/QuickQiwi
+- `git clone https://github.com/BeanDx/QuickQiwi`
 
-⚫ cd QuickQiwi
+- `cd QuickQiwi`
 
-⚫ pip install -r requirements.txt
+- `pip install -r requirements.txt`
 
-------- ЗАПУСК ------
+<h3>Запуск</h3>
 
-⚫ python QuickQiwi.py
+- `python QuickQiwi.py`
